@@ -1,0 +1,9 @@
+http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dtw75sqd57_39zrb&address=69+Summer+St&citystatezip=Watertown%2C+MA
+
+http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dtw75sqd57_39zrb&address=10+Austin+Park&citystatezip=Cambridge%2C+MA&rentzestimate=True
+
+http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dtw75sqd57_39zrb&address=22+Shedd+Lane&citystatezip=Hollis%2C+NH&rentzestimate=True
+
+http://www.zillow.com/howto/api/GetDeepSearchResults.htm
+
+related: http://www.datasciencetoolkit.org/developerdocs#coordinates2statistics
